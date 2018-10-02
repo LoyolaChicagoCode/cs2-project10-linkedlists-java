@@ -20,18 +20,9 @@ An understanding of the following concepts and techniques:
 In this lab, you will have the opportunity to look "under the hood" of linked lists by creating and manipulating nodes.
 You will do this interactively using the JShell that comes with Java 9.
 
-1. If using c9, remove Java 8 from your workspace:
-
-        sudo apt remove -y oracle-java8-*
-        sudo apt-get autoremove
-              
-1. Install Java 9:
-
-      - Java 9 installation instructions for Ubuntu (applicable to your c9 workspace): http://www.webupd8.org/2015/02/install-oracle-java-9-in-ubuntu-linux.html
+1. Install JShell if you haven't done so per the earlier instructions.
       
-        *If you run out of space or have any other kind of difficulty with this installation, create a new workspace instead and install Java 9 there.*
-      
-      - For Windows and Mac, download and install from here: http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html
+      - For Windows and Mac, download and install Java 10.
   
    This is a fairly big download, so it might take a while.
 
@@ -39,7 +30,7 @@ You will do this interactively using the JShell that comes with Java 9.
 
        jshell -R-ea
 
-   If this does not work, double-check your Java 9 installation.
+   If this does not work, double-check your Java 10 installation.
 
 1. Define this generic node class:
 
