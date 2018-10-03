@@ -21,10 +21,14 @@ In this lab, you will have the opportunity to look "under the hood" of linked li
 You will do this interactively using the JShell that comes with Java 9.
 
 1. Install JShell if you haven't done so per the earlier instructions.
-      
-      - For Windows and Mac, download and install Java 10.
-  
-   This is a fairly big download, so it might take a while.
+
+   - On Ubuntu Linux, including Codenvy, go into a terminal window and enter these commands:
+   
+         sudo apt update
+         sudo apt install openjdk-10-jdk
+
+   - On Windows and Mac, download and install the [appropriate Java 10 JDK for your system](https://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html).
+     This is a fairly big download, so it might take a while.
 
 1. Start the JShell like so:
 
