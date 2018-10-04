@@ -118,11 +118,16 @@ Please submit the following deliverables:
 
 # Grading
 
-- 1 submission of both deliverables as part of a single secret [gist](https://gist.github.com/) - *be sure to submit this gist's URL through Sakai*
 - 2.5 JShell history (`jshell> /save -history myhistory.jsh`) showing the steps described above (it's OK if errors are included)
 - 1.5 written part
   - 0.2 for each of the six questions
   - 0.3 grammar and style
+- 1 submission of both deliverables as part of a single secret [gist](https://gist.github.com/)
+  - go to http://gist.github.com and create a new gist by clicking the corresponding button in the top right corner
+  - upload your JShell history by dragging it from your desktop into the gist editor
+  - choose add file to open another editor and enter your answers there
+  - *finally, submit this gist's URL through Sakai*
+  - [GitHub gist documentation](https://help.github.com/articles/creating-gists/)
 
 *5 points TOTAL*
 
