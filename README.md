@@ -18,16 +18,16 @@ An understanding of the following concepts and techniques:
 # Instructions
 
 In this lab, you will have the opportunity to look "under the hood" of linked lists by creating and manipulating nodes.
-You will do this interactively using the JShell that comes with Java 9.
+You will do this interactively using the JShell that comes with Java 9 and later.
 
 1. Install JShell if you haven't done so per the earlier instructions.
 
    - On Ubuntu Linux, including Codenvy, go into a terminal window and enter these commands:
    
          sudo apt update
-         sudo apt install openjdk-10-jdk
+         sudo apt install openjdk-11-jdk
 
-   - On Windows and Mac, download and install the [appropriate Java 10 JDK for your system](https://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html).
+   - On Windows and Mac, download and install the [appropriate Java 11 JDK for your system](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
      This is a fairly big download, so it might take a while.
 
 1. Start the JShell like so:
