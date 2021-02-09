@@ -1,6 +1,6 @@
 # Loyola COMP 271 Lab 9: linked lists
 
-# Individual activity
+## Individual activity
 
 Collaborate with your classmates on a conceptual level but do not share code.
 Submit individually.
