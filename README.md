@@ -34,7 +34,7 @@ You will do this interactively using the JShell that comes with Java 9 and later
 
        jshell -R-ea
 
-   If this does not work, double-check your Java 10 installation.
+   If this does not work, double-check your Java installation.
 
 1. Define this generic node class:
 
@@ -133,5 +133,5 @@ Please submit the following deliverables:
 
 # References
 
-- [JShell overview](https://docs.oracle.com/javase/9/jshell/introduction-jshell.htm)
+- [JShell overview](https://docs.oracle.com/en/java/javase/11/jshell/)
 - [JShell tutorial](http://cr.openjdk.java.net/~rfield/tutorial/JShellTutorial.html)
