@@ -99,7 +99,7 @@ Use `printNode` to verify that the node is now in the correct position.
 1. *Question:* How would you describe the shape of any noncyclical structure you can build using the `Node` class? 
 Furthermore, can you build structures with branches that look like trees, where a node can have more than one successor or neighbor?
 
-1. Write the equivalent of `printNode` using an `Iterator` over a `java.util.LinkedList`?
+1. Write the equivalent of `printNode` using an `Iterator` over a `java.util.LinkedList`.
 
        final List<String> myList = new LinkedList<>(Arrays.asList("hello", "<YOUR NAME>", "what", "up"));
        final Iterator i = myList.iterator();
