@@ -112,7 +112,7 @@ Furthermore, can you build structures with branches that look like trees, where 
 Please submit the following deliverables:
 
 - Individual Sakai submission under "Lab 9":
-  - gist with JShell history and written part (see below for details)
+  - single gist with JShell history and written part as two separate files (see below for details)
   - brief description of your collaboration style and summary of your 
     individual contributions to this team project
 
