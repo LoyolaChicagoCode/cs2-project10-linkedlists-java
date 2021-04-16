@@ -70,7 +70,7 @@ Use as many statements as you want.
    
    Hint: It is best to define named variables for your various objects instead of relying on the auto-generated `$...` names.
 
-1. Now create the same list using a single statement.
+1. Now create the same list using a single statement. *Be careful to distinguish between a single node containing a longer string, and multiple linked nodes as in the previous step! We need to create the latter in a single statement using the available `Node` constructors.*
 
 1. *Question:* Which way to create the list more clearly conveys the actual structure of the list?
 
