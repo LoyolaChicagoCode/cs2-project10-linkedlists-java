@@ -1,9 +1,8 @@
-# Loyola COMP 271 Lab 9: linked lists
+# Loyola COMP 271 Project 10: linked lists
 
 ## Individual activity
 
-Collaborate with your classmates on a conceptual level but do not share code.
-Submit individually.
+In this activity, we'll explore lists consisting of interlinked nodes.
 
 # Objectives
 
